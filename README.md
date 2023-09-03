@@ -1,4 +1,4 @@
-# All Paged Interfaces
+# Some Pages Interfaces
 ![RN Course](https://github.com/EdinamUkpabio/ModernEatsUI/blob/main/Interface.jpg)
 
 ## Introduction

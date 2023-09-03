@@ -1,6 +1,13 @@
 ## Some Pages Interfaces
 ![RN Course](https://github.com/EdinamUkpabio/ModernEatsUI/blob/main/Interface.jpg)
 
+![GitHub stars](https://img.shields.io/github/stars/EdinamUkpabio/ModernEatsUI?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/EdinamUkpabio/ModernEatsUI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/EdinamUkpabio/ModernEatsUI?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/EdinamUkpabio/ModernEatsUI)
+![GitHub contributors](https://img.shields.io/github/contributors/EdinamUkpabio/ModernEatsUI)
+![GitHub code size](https://img.shields.io/github/languages/code-size/EdinamUkpabio/ModernEatsUI)
+
 ## Introduction
 Building Modern UI & UX Websites
 
